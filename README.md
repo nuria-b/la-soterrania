@@ -2,38 +2,42 @@
 
 ## 🛠️ Mock up
 
- imagen Mockup
+<p>Mockup: <i>https://www.figma.com/file/qf7kA9zCBbMA2Tjh7UhEwV/la-Sote%3C3?node-id=0%3A1</i></p> 
+<p>Wireframe's prototype: <i>https://www.figma.com/proto/qf7kA9zCBbMA2Tjh7UhEwV/la-Sote%3C3?scaling=scale-down&page-id=0%3A1&node-id=31%3A2&starting-point-node-id=31%3A2&show-proto-sidebar=1</i></p>
+ 
 
 ## ⚙️ Tecnologías utilizadas en el proyecto
 
 <ul>
     <li>React</li>
-    <li>Expressjs</li>
-    <li>Nodejs</li>
+    <li>Express.js</li>
+    <li>Node.js</li>
     <li>Material UI</li>
     <li>Jest</li>
     <li>TypeScript</li>
+    <li>JavaScript</li>
     <li>NPM</li>
     
 </ul>
 
+## :eyes: Database y demo de la app
 
-## :eyes: Demo de la app
-
-<p>Página de producción de la soterrània: <i>https://lasoterraniaweb.netlify.app</i></p> 
+<p>Estructura de la database (versión para primera iteración): <i>https://drawsql.app/teams/nurias-team/diagrams/la-soterrania</i></p> 
+<p>Página de producción: <i>https://lasoterraniaweb.netlify.app</i></p> 
 
 
 ## 🔍 Instalación
 
-<p> *** Tener instalado el Visual Studio Code y el Node js</p>
+<p> Se recomienda usar Visual Studio Code y es requisito imprescindible instalar Node.js</p>
+<p> Instrucciones:</p>
     <ul>
-        <li>Clonamos el repositorio utilizamos el comando:</li>
+        <li>Clonar el repositorio utilizando el comando:</li>
             <p>git clone <i>https://github.com/soterraniaBcn/la-soterrania.git</i></p> 
-        <li>Instalamos Node Package Manager: </li> 
+        <li>Instalar Node Package Manager con el comando: </li> 
              <p>npm install / npm i</p>
-        <li>Vizualizamos el proyecto ejecutando en un terminal integrado para client</li> 
+        <li>Vizualizar el proyecto ejecutando en un terminal integrado para client</li> 
             <ul> 
-                <li>📂 El "client" usando el comando:</li> 
+                <li>📂 En carpeta "client", lanzar el comando:</li> 
                     <p>npm start</p>
             </ul>
     </ul>
