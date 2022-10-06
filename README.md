@@ -20,8 +20,7 @@
 
 ## :eyes: Demo de la app
 
-<li>Página de producción:</li>
-            <p>la soterrània <i>https://lasoterraniaweb.netlify.app</i></p> 
+<p>Página de producción de la soterrània: <i>https://lasoterraniaweb.netlify.app</i></p> 
 
 
 ## 🔍 Instalación
